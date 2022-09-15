@@ -1,0 +1,126 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    line-height: 2;
+}
+h1{
+    color: #155257;
+    font-family: 'Great Vibes', cursive;
+    font-size: 150px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-top: 160px;
+}
+h2 {
+    color: #389091;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+}
+h3{
+    font-size: 30px;
+}
+hr {
+    margin-bottom: 60px;
+    border: dotted #d3f1f1 8px;
+    border-bottom: none;
+    width: 5%;
+}
+a {
+    color: #40514E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin: 10px 20px 10px;
+    text-decoration: none;
+}
+a:hover {
+    color: #E1FFEE;
+}
+
+.top-container{
+    background-color: #E1FFEE;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.top-cloud {
+    height: 100px;
+    width: 200px;
+    position: absolute;
+    right: 500px ;
+}
+.bot-cloud {
+    height: 100px;
+    width: 200px;
+    position: absolute;
+}
+.mountain {
+    padding-top: 10px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+    list-style: 3;
+}
+.DP {
+    width: 25%;
+}
+.game {
+    float: left;
+    margin-right: 30px;
+}
+.anime {
+    width: 28% ;
+    float: right;
+}
+.profile {
+    margin: 100px auto 100px auto;
+}
+.bottom-container {
+    background-color: #389091;
+    padding-top: 50px;
+    padding-bottom: 40px;
+}
+.contact-massage {
+    width: 40%;
+    margin: 40px auto 40px;
+}
+.middle-container {
+    margin: 10px auto 100px;
+}
+.btn {
+    background: #389091;
+    background-image: -webkit-linear-gradient(top, #389091, #005e99);
+    background-image: -moz-linear-gradient(top, #389091, #005e99);
+    background-image: -ms-linear-gradient(top, #389091, #005e99);
+    background-image: -o-linear-gradient(top, #389091, #005e99);
+    background-image: linear-gradient(to bottom, #389091, #005e99);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    text-shadow: 1px 1px 3px #14b3db;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #87ccf5;
+    background-image: -webkit-linear-gradient(top, #87ccf5, #677a87);
+    background-image: -moz-linear-gradient(top, #87ccf5, #677a87);
+    background-image: -ms-linear-gradient(top, #87ccf5, #677a87);
+    background-image: -o-linear-gradient(top, #87ccf5, #677a87);
+    background-image: linear-gradient(to bottom, #87ccf5, #677a87);
+    text-decoration: none;
+  }
+  .cpy {
+    margin-bottom: 0;
+  }
